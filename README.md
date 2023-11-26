@@ -15,5 +15,6 @@ El Proyecto Midas consiste en una Ortesis Robotica conjunto a un sistema para la
 
 * LinkedIn: https://www.linkedin.com/in/midas-project-aaa904275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-
-
+# Ledesma Joel Kevin
+ 
+Ledesmakevin770@gmail.com
